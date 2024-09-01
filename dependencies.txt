@@ -2,3 +2,7 @@ simpletransformers
 selenium
 torch
 waybackpy
+tranco
+ipywidgets
+bs4
+nbformat
