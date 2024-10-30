@@ -1,4 +1,4 @@
-# Methodology for Measuring Evolution of Cookie Dialogues.
+# Implementation for Measuring Evolution of Cookie Dialogues.
 Authors: Violeta Sizonenko.
 Institution: Radboud University Nijmegen.
 Abstract:
